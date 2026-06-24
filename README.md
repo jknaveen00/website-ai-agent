@@ -18,7 +18,7 @@ This demo shows how an AI agent can autonomously open a file, navigate the web, 
 ## ⚙️ Installation & Setup  
 
 ### 1. Clone the Repository  
-git clone https://github.com/Nv1023/ai-browser-gemini.git
+git clone https://github.com/jknaveen00/ai-browser-gemini.git
 cd ai-browser-gemini
 
 2. Create a Virtual Environment
