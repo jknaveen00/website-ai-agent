@@ -87,6 +87,6 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ---
 
 ## 👨‍💻 Author
-**Nagavengadeshwaran S**
-📧 Email: 24f1000802@ds.study.iitm.ac.in
-🔗 GitHub: Nv1023
+**Naveen j**
+📧 Email: naveenjeyakala333@gmail.com
+🔗 GitHub: jknaveen00
